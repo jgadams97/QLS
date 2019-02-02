@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.rmayco.qsim.MainActivity
+Created-By: 1.8.0_171 (rMayco)
+
